@@ -1,2 +1,3 @@
 # large-repo-3
-Large file test repository 3
+
+This repository contains large files (>10MB) for testing purposes.
